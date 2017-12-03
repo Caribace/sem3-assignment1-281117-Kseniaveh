@@ -11,5 +11,7 @@ def sum_natural(number):
   return summa
 def print_screen(s):
   print('Сумма данного натурального числа: {}'.format(s))
+  
+if __name__ == "__main__":
 
 print_screen(sum_natural(func()))
