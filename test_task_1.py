@@ -1,3 +1,4 @@
+import pytest
 from task_1 import sum_natural
 
 def test_my_func():
