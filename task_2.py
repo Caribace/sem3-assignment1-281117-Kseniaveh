@@ -14,5 +14,4 @@ def func():
     if function(i) % 17 == 0:
       print('Трехзначное число: {}'.format(i))
       
-if __name__ == "__main__":
       func()     
